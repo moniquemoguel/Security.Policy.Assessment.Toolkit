@@ -20,9 +20,9 @@ This toolkit is designed to help organizations assess their existing security po
 
 /Security-Policy-Assessment-Toolkit/
 │
-├── Policy_Gap_Assessment_Outline.md # Framework for performing a policy gap analysis
-├── Sample_Framework_References.md # Example mappings to frameworks (NIST, ISO, CIS)
-├── README.md # Project overview
+| Policy_Gap_Assessment_Outline.md # Framework for performing a policy gap analysis
+| Sample_Framework_References.md # Example mappings to frameworks (NIST, ISO, CIS)
+| README.md # Project overview
 
 ---
 
